@@ -22,7 +22,7 @@ The dataset was provided by Meir Medical Center and includes thousands of rows, 
 
 The data spans several months and was cleaned and processed using Python (Pandas, matplotlib, scikit-learn, XGBoost).
 
-## ⚙️ Main Analyses & Models
+## Main Analyses & Models
 
 ### 1. Task Analysis & Visualization
 - Breakdown of task types by department and time
