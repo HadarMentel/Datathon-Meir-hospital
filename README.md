@@ -1,5 +1,3 @@
-![לוגו מרכז רפואי מאיר](chart.png)
-
 # Datathon Meir Hospital – Staff Planning and Task Forecasting
 
 This project was developed as part of the Afeka College Datathon, using real-world task data from Meir Medical Center. The goal was to analyze and forecast hospital task loads in order to improve staff allocation and workload management.
